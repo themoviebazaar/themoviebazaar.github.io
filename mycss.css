@@ -37,7 +37,7 @@ header{
 #menu li a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 1.5vw;
 }
 
 section{
@@ -72,7 +72,7 @@ section{
 }
 
 #line1{
-	font-size: 60px;
+	font-size: 5vw;
 	position: absolute;	
 	top: 40%;
 	left: 50%;
@@ -81,7 +81,7 @@ section{
 }
 
 #line2{
-	font-size: 60px;
+	font-size: 5vw;
 	position: absolute;	
 	top: 50%;
 	left: 50%;
@@ -90,7 +90,7 @@ section{
 }
 
 #text1{
-	font-size: 20px;
+	font-size: 1.7vw;
 	position: absolute;	
 	top: 60%;
 	left: 50%;
@@ -114,7 +114,7 @@ section{
 }
 
 #line3{
-	font-size: 40px;
+	font-size: 3vw;
 	position: relative;	
 	top: 20%;
 	left: 30%;
@@ -122,7 +122,7 @@ section{
 }
 
 #line4{
-	font-size: 40px;
+	font-size: 3vw;
 	position: relative;	
 	top: 20%;
 	left: 30%;
@@ -130,7 +130,7 @@ section{
 }
 
 #line5, #line6, #line7{
-	font-size: 20px;
+	font-size: 1.7vw;
 	position: relative;	
 	top: 25%;
 	left: 30%;
@@ -146,7 +146,7 @@ section{
 }
 
 #text2, #text3, #text4{
-	font-size: 15px;
+	font-size: 1.1vw;
 	position: relative;	
 	top: 20%;
 	left: 30%;
@@ -156,7 +156,7 @@ section{
 
 
 #line8{
-	font-size: 40px;
+	font-size: 3vw;
 	position: absolute;	
 	top: 20%;
 	left: 15%;
@@ -164,7 +164,7 @@ section{
 }
 
 #line9{
-	font-size: 40px;
+	font-size: 3vw;
 	position: absolute;	
 	top: 27%;
 	left: 15%;
@@ -172,7 +172,7 @@ section{
 }
 
 #text5{
-	font-size: 12px;
+	font-size: 1vw;
 	position: absolute;	
 	top: 30%;
 	left: 15%;
@@ -187,7 +187,7 @@ section{
 }
 
 #line10{
-	font-size: 40px;
+	font-size: 3vw;
 	position: absolute;	
 	top: 20%;
 	left: 15%;
@@ -195,7 +195,7 @@ section{
 }
 
 #line11{
-	font-size: 40px;
+	font-size: 3vw;
 	position: absolute;	
 	top: 20%;
 	left: 5%;
@@ -218,7 +218,7 @@ section{
 }
 
 #text6{
-	font-size: 17px;
+	font-size: 1.1vw;
 	position: absolute;	
 	top: 35%;
 	left: 15%;
@@ -233,7 +233,7 @@ section{
 }
 
 #text7{
-	font-size: 17px;
+	font-size: 1.2vw;
 	position: relative;	
 	top: 35%;
 	left: 15%;
@@ -250,7 +250,7 @@ section{
 
 
 #text8{
-	font-size: 17px;
+	font-size: 1.2vw;
 	position: relative;	
 	top: 35%;
 	left: 15%;
@@ -267,7 +267,7 @@ section{
 
 
 #text9{
-	font-size: 17px;
+	font-size: 1.2vw;
 	position: relative;	
 	top: 35%;
 	color: #fff;
@@ -275,7 +275,7 @@ section{
 }
 
 #line12, #line13{
-	font-size: 20px;
+	font-size: 1.7vw;
 	position: relative;	
 	top: 32%;
 	left: 15%;
@@ -283,7 +283,7 @@ section{
 }
 
 #line14{
-	font-size: 20px;
+	font-size: 1.7vw;
 	position: relative;	
 	top: 32%;
 	color: #fff;
